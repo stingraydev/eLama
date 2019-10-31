@@ -12,7 +12,7 @@
 4. Верстка проходит валидацию.
 5. Все файлы минифицированы.
 
-Посмотреть проект без сборки и скачивания файлов можно <a href="https://owiii.github.io/eLama-build/">здесь.</a><br>
+Посмотреть проект без сборки и скачивания файлов можно <a href="https://owiii.github.io/eLama-build/" target="_blank">здесь.</a><br>
 
 <b>Контакты:</b><br>
 Почта:   owiii.dev@gmail.com<br>
