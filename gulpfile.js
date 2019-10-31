@@ -54,15 +54,14 @@ gulp.task('build:resources', async () => {
       .pipe(gulp.dest('build'))
 });
 
-gulp.task('build', async () => {
+gulp.task('build',
   gulp.parallel(
       'build:html',
       'build:scss',
       'build:js',
       'build:images',
       'build:resources'
-  )
-});
+  ));
 
 gulp.task('serve', () => {
   browserSync.init({
