@@ -1,8 +1,8 @@
 <h2>Тестовое задание для компании eLama</h2> 
 
-Установка зависимостей: npm install
-Для сборки: gulp build
-Для запуска проекта: gulp default
+Установка зависимостей: npm install<br>
+Для сборки: gulp build<br>
+Для запуска проекта: gulp default<br>
 
 Проект:
 
@@ -12,10 +12,10 @@
 4. Верстка проходит валидацию.
 5. Все файлы минифицированы.
 
-Посмотреть проект без сборки и скачивания файлов можно <a href="https://owiii.github.io/eLama-build/">здесь.</a>
+Посмотреть проект без сборки и скачивания файлов можно <a href="https://owiii.github.io/eLama-build/">здесь.</a><br>
 
-<b>Контакты:</b> 
-Почта:   owiii.dev@gmail.com
+<b>Контакты:</b><br>
+Почта:   owiii.dev@gmail.com<br>
 Телеграм: https://t.me/artem_owiii
 
 
